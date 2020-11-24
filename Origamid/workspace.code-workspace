@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\CursoJS"
+		},
+		{
+			"path": "html_basic"
+		},
+		{
+			"path": "css_basic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html_basic"
+	}
+}
